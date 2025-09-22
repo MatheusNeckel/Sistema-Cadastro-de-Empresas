@@ -26,4 +26,4 @@ Permite o cadastro de empresas, geração de relatórios e prática de **POO**, 
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-empresas.git
+   git clone https://github.com/MatheusNeckel/Sistema-Cadastro-de-Empresas.git
