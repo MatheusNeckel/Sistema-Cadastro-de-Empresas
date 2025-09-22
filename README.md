@@ -1,2 +1,29 @@
-# Sistema-Cadastro-de-Empresas
-🏢 Sistema de Cadastro de Empresas em Java com Swing e MySQL, incluindo DAO, relatórios e interface gráfica para gestão empresarial.
+# Sistema de Cadastro de Empresas 🏢
+
+O **Sistema de Cadastro de Empresas** é um projeto acadêmico desenvolvido em **Java**,  
+com **interface gráfica em Swing** e **integração a banco de dados MySQL**.  
+Permite o cadastro de empresas, geração de relatórios e prática de **POO**, **DAO** e **MVC**.
+
+---
+
+## 🚀 Tecnologias
+- Java (POO, Swing)
+- NetBeans / Ant
+- MySQL (JDBC)
+- DAO e MVC
+
+---
+
+## 📌 Funcionalidades
+- Cadastro de empresas  
+- Edição e exclusão de registros  
+- Relatório de empresas cadastradas  
+- Interface gráfica amigável (Swing)  
+- Integração com banco de dados  
+
+---
+
+## ⚙️ Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/sistema-empresas.git
